@@ -1,5 +1,5 @@
 ## Hi there 👋
-(https://projecteuler.net/profile/aksarv.png)
+![Project Euler Profile](https://projecteuler.net/profile/aksarv.png)
 <!--
 **aksarv/aksarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
